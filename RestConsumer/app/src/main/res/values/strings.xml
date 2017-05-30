@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rest Consumer</string>
+    <string name="title_activity_icndb">ICNDbActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="main_icndb_button">Chuck Norris DB</string>
+    <string name="main_cats_button">Cats API</string>
+    <string name="main_progress_dialog_title">Loading</string>
+    <string name="main_progress_dialog_message">Fetching data...</string>
+</resources>
